@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rewireTherapy</string>
+    <string name="facebook_app_id">241294361546652</string>
+    <string name="fb_login_protocol_scheme">fb241294361546652</string>
+    <string name="facebook_client_token">99351df50e9e1b9ba288f265cf94be41</string>
+</resources>

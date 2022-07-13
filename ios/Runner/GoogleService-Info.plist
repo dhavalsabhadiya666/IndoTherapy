@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>482351762766-ei70h1bcqqa0ma0s7mg5inbrce6huaec.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.482351762766-ei70h1bcqqa0ma0s7mg5inbrce6huaec</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>482351762766-phgt5chc29cr3jm08lf8hh0o8uvbc7jl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7e3C0DMlmkI372f6A4zBXux5mFPD2WgM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>482351762766</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rewiretherapy.app</string>
+	<key>PROJECT_ID</key>
+	<string>rewire-therapy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rewire-therapy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:482351762766:ios:d1654be361bfe50d8be21f</string>
+</dict>
+</plist>

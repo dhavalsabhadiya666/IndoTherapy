@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482351762766",
+    "project_id": "rewire-therapy",
+    "storage_bucket": "rewire-therapy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482351762766:android:341e3c52701f93078be21f",
+        "android_client_info": {
+          "package_name": "com.rewiretherapy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482351762766-phgt5chc29cr3jm08lf8hh0o8uvbc7jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rewiretherapy.app",
+            "certificate_hash": "2afb4e75ba9b8a552762c0c8e018654612b4cb58"
+          }
+        },
+        {
+          "client_id": "482351762766-c0ji4b50anp3j7d1pa66s4mv4h8916b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj0SqbFlnyVoepeJ_7BygtxCgNI-YP6Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482351762766-c0ji4b50anp3j7d1pa66s4mv4h8916b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
